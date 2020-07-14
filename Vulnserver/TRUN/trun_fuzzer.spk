@@ -1,0 +1,4 @@
+s_read_packet();
+s_string("TRUN ");
+s_string_variable("AA");
+s_string("\r\n");
