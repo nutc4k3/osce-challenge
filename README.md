@@ -15,7 +15,7 @@ Assigned CVE's : 0
 
 **CTF:**
 
-- [ ] Vulnserver TRUN vanilla EIP overflow
+- [x] Vulnserver TRUN vanilla EIP overflow
 - [ ] Brainpan VulnHub box vanilla EIP overflow
 
 **In the wild:**
