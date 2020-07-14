@@ -3,11 +3,11 @@
 Challenge Original: https://github.com/FULLSHADE/OSCE
 
 ```
-Exploits written : 2/50
-Metasploit modules: 0
-Metasploit contributions : 0
-0day discoveries : 0
-Assigned CVE's : 0
+Exploits written:         2/50
+Metasploit modules:       0
+Metasploit contributions: 0
+0day discoveries:         0
+Assigned CVE's:           0
 ```
 
 ## Bem vindo ao começo dos anos 2000 ツ
