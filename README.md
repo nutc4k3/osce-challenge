@@ -3,7 +3,7 @@
 Challenge Original: https://github.com/FULLSHADE/OSCE
 
 ```
-Exploits written : 1/50
+Exploits written : 2/50
 Metasploit modules: 0
 Metasploit contributions : 0
 0day discoveries : 0
@@ -17,7 +17,7 @@ Assigned CVE's : 0
 **CTF:**
 
 - [x] Vulnserver TRUN vanilla EIP overflow
-- [ ] Brainpan VulnHub box vanilla EIP overflow
+- [x] Brainpan VulnHub box vanilla EIP overflow
 
 **In the wild:**
 
