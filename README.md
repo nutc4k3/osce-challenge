@@ -3,7 +3,7 @@
 Challenge Original: https://github.com/FULLSHADE/OSCE
 
 ```
-Exploits written:         2/50
+Exploits written:         3/50
 Metasploit modules:       0
 Metasploit contributions: 0
 0day discoveries:         0
@@ -21,7 +21,7 @@ Assigned CVE's:           0
 
 **In the wild:**
 
-- [ ] FreeFloat FTP Server vanilla EIP overflow
+- [x] FreeFloat FTP Server vanilla EIP overflow
 - [ ] PCMan FTP Server vanilla EIP overflow
 - [ ] DoStackBufferOverflowGood vanilla EIP overflow
 - [ ] MiniShare 1.4.1 vanilla EIP overflow
