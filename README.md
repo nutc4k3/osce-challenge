@@ -18,12 +18,12 @@ Assigned CVE's:           0
 
 - [x] Vulnserver TRUN vanilla EIP overflow
 - [x] Brainpan VulnHub box vanilla EIP overflow
+- [x] DoStackBufferOverflowGood vanilla EIP overflow
 
 **In the wild:**
 
 - [x] FreeFloat FTP Server vanilla EIP overflow
 - [x] PCMan FTP Server vanilla EIP overflow
-- [x] DoStackBufferOverflowGood vanilla EIP overflow
 - [x] MiniShare 1.4.1 vanilla EIP overflow
 - [ ] ASX to MP3 converter 3.1.2.1 vanilla EIP overflow
 - [ ] VUPlayer 2.49 .wax vanilla EIP overflow
