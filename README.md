@@ -41,7 +41,7 @@ Assigned CVE's:           0
 - [ ] Audiograbber 1.83 local SEH overflow
 - [ ] 10-Strike Network Inventory Explorer SEH overflow
 
-**With egghunter: 2004 whitepaper**
+**With egghunter: [2004 whitepape](http://www.hick.org/code/skape/papers/egghunt-shellcode.pdf)**
 
 - [ ] Easy File Sharing Web Server SEH overflow + egghunter
 - [ ] Xitami Web Server 2.5 SEH overflow + egghunter + partial SEH overwrite
