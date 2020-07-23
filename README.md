@@ -31,7 +31,9 @@ Assigned CVE's:           0
 ### Structured Exception Handler (SEH) Overwrite + egghunter
 
 **Standard:**
+**CTF:**
 
+- [x] Vulnserver GMON SEH overflow
 - [ ] Easy File Sharing Web Server SEH overflow
 - [ ] Millenium MP3 Studio 2.0 SEH overflow
 - [ ] Free MP3 CD Ripper 2.6 SEH overflow
@@ -42,7 +44,6 @@ Assigned CVE's:           0
 **With egghunter: 2004 whitepaper**
 
 - [ ] Easy File Sharing Web Server SEH overflow + egghunter
-- [ ] Vulnserver GMON SEH overflow + egghunter
 - [ ] Xitami Web Server 2.5 SEH overflow + egghunter + partial SEH overwrite
 
 
