@@ -31,7 +31,8 @@ Assigned CVE's:           0
 ### Structured Exception Handler (SEH) Overwrite + egghunter
 
 **Standard:**
-**CTF:**
+
+ **CTF:**
 
 - [x] Vulnserver GMON SEH overflow
 - [ ] Easy File Sharing Web Server SEH overflow
