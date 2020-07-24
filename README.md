@@ -3,7 +3,7 @@
 Challenge Original: https://github.com/FULLSHADE/OSCE
 
 ```
-Exploits written:         8/50
+Exploits written:         9/50
 Metasploit modules:       0
 Metasploit contributions: 0
 0day discoveries:         0
@@ -25,7 +25,7 @@ Assigned CVE's:           0
 - [x] FreeFloat FTP Server vanilla EIP overflow
 - [x] PCMan FTP Server vanilla EIP overflow
 - [x] MiniShare 1.4.1 vanilla EIP overflow
-- [ ] ASX to MP3 converter 3.1.2.1 vanilla EIP overflow
+- [x] ASX to MP3 converter 3.1.2.1 vanilla EIP overflow
 - [ ] VUPlayer 2.49 .wax vanilla EIP overflow
 
 ### Structured Exception Handler (SEH) Overwrite + egghunter
