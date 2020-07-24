@@ -3,7 +3,7 @@
 Challenge Original: https://github.com/FULLSHADE/OSCE
 
 ```
-Exploits written:         7/50
+Exploits written:         8/50
 Metasploit modules:       0
 Metasploit contributions: 0
 0day discoveries:         0
@@ -30,12 +30,13 @@ Assigned CVE's:           0
 
 ### Structured Exception Handler (SEH) Overwrite + egghunter
 
-**Standard:**
-
  **CTF:**
 
 - [x] Vulnserver GMON SEH overflow
-- [ ] Easy File Sharing Web Server SEH overflow
+
+**In the wild:**
+
+- [x] Easy File Sharing Web Server SEH overflow
 - [ ] Millenium MP3 Studio 2.0 SEH overflow
 - [ ] Free MP3 CD Ripper 2.6 SEH overflow
 - [ ] RGUI i386 3.4.4 local SEH overflow
